@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# FastAPI/Backend
+frames/
+temp_streamed_video.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite/
+
+# Misc
+*.log
